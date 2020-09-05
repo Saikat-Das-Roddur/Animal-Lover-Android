@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:onClick="itemShowFavourite"
+        android:title="Show Favourites" />
+
+    <item
+        android:onClick="itemSupport"
+        android:title="Support us" />
+
+    <item
+        android:onClick="itemBug"
+        android:title="Report bug" />
+
+    <item
+        android:onClick="itemRate"
+        android:title="Rate" />
+
+    <item
+        android:onClick="itemAbout"
+        android:title="About" />
+
+    <item
+        android:onClick="shareApp"
+        android:title="Share" />
+
+</menu>

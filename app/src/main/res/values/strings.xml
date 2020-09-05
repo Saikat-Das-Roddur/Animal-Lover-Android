@@ -1,0 +1,42 @@
+<resources>
+
+    <string name="app_name">Animal Lover</string>
+    <string name="slogan1">Save the tigers, before they are silenced forever.</string>
+    <string name="slogan2">Big or small, let’s save them all</string>
+    <string name="slogan3">If animals are lost, we will have to pay the cost.</string>
+    <string name="slogan4">Many species, one planet, one future</string>
+    <string name="slogan5">Animals kill for need, humans kill for greed</string>
+    <string name="slogan6">Don’t act blindly, treat animals kindly</string>
+    <string name="slogan7">Cage the cruelty, Not Animals</string>
+
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <!---->
+    <string name="favouriteList">Favourite List</string>
+    <string name="search">Search</string>
+    <string name="mammalia">Mammalia</string>
+    <string name="amphibia">Amphibia</string>
+    <string name="reptilia">Reptilia</string>
+    <string name="actinopterygii">Actinopterygii</string>
+    <string name="arachnida">Arachnida</string>
+    <string name="crustacea">Crustacea</string>
+    <string name="chondrichthyes">Chondrichthyes</string>
+    <string name="aves">Aves</string>
+    <string name="osteichthyes">Osteichthyes</string>
+    <string name="insecta">Insecta</string>
+    <string name="urochordata">Urochordata</string>
+    <string name="anthozoa">Anthozoa</string>
+    <string name="demospongiae">Demospongiae</string>
+    <string name="asteroidea">Asteroidea</string>
+    <string name="bivalvia">Bivalvia</string>
+    <string name="echinoidea">Echinoidea</string>
+    <string name="gastropoda">Gastropoda</string>
+    <string name="holothuroidea">Holothuroidea</string>
+    <string name="lissamphibia">Lissamphibia</string>
+    <string name="malacostraca">Malacostraca</string>
+    <string name="merostomata">Merostomata</string>
+    <string name="myriapoda">Myriapoda</string>
+    <string name="sauropsida">Sauropsida</string>
+    <string name="scyphozoa">Scyphoza</string>
+    <string name="cephalopoda">Cephalopoda</string>
+    <string name="allanimals">All animals</string>
+</resources>
